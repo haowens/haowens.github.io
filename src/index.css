@@ -72,8 +72,8 @@ body {
 
 /* Anchors */
 a {
-  border-bottom: 3px solid #beebaa44;
-  color: #5a7913;
+  border-bottom: 3px solid #E94D95;
+  color: #4DE9A9;
   font-weight: 800;
   font-size: 1rem;
   text-decoration: none;
@@ -89,7 +89,7 @@ h1,
 h2,
 h3,
 h4 {
-  color: #0a5822;
+  color: #55D5CD;
   margin-top: 2rem;
   line-height: 1.2;
 }
@@ -148,5 +148,5 @@ h4 {
   margin-top: 2rem;
   padding: 0.5rem 1rem;
   text-align: center;
-  background-color: #5a7913;
+  background-color: #55D5CD;
 }

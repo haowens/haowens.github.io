@@ -1,4 +1,5 @@
 const lesson_one = `# Lesson 1: Deploy Your Own React Site + Learn Git
+## TEST
 
 Welcome to your first week on the CSSG education team! We're super excited to have you here :)
 The goals for you this week are as follows:
