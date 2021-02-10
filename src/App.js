@@ -21,13 +21,13 @@ const App = () => {
       <h2>websites I think are cool:</h2>
       <ol>
         <li>
-          <a href="https://www.ashten.studio/about" target="_blank">bestpholios 1</a>
+          <a href="https://www.ashten.studio/" target="_blank">bestpholios 1</a>
         </li>
         <li>
           <a href="https://winonanasser.myportfolio.com/work" target="_blank">bestpholios 2</a>
         </li>
         <li>
-          <a href="https://www.joshuacitarella.com" target="_blank">Joshua Citarella</a>
+          <a href="http://joshuacitarella.com/" target="_blank">Joshua Citarella</a>
         </li>
       </ol>
 
