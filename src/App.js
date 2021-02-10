@@ -21,17 +21,20 @@ const App = () => {
       <h2>websites I think are cool:</h2>
       <ol>
         <li>
-          <a href="https://www.ashten.studio/about">bestpholios 1</a>
+          <a href="https://www.ashten.studio/about" target="_blank">bestpholios 1</a>
         </li>
         <li>
-          <a href="https://www.joshuacitarella.com">Joshua Citarella</a>
+          <a href="https://winonanasser.myportfolio.com/work" target="_blank">bestpholios 2</a>
+        </li>
+        <li>
+          <a href="https://www.joshuacitarella.com" target="_blank">Joshua Citarella</a>
         </li>
       </ol>
 
       <p></p>
       
       <h2>about me:</h2>
-      <p>I'm a freshman at UNC, I'm from Chicago, and I think I want to study Computer Science and Journalism but I'm not sure. I love listening to music, going for long bike rides, staying up late, and rewatching my favorite movies. I wish I was better at coding than I am but I had a terrible experience in a computer science class in high school that scared me away from comp sci until Kris Jordan showed me I actually loved it and it was the perfect way to combine my love of STEM with my love of pop culture. Also please don't follow either of my social media accounts that I put on here I don't really keep them up I just figured it was the kind of thing people put on their websites. In an ideal world where I self-actualize they won't be embarrassing.</p>
+      <p>I'm a freshman at UNC, I'm from Chicago, and I think I want to study Computer Science and Journalism but I'm not sure. I love listening to music, going for long bike rides, staying up late, and rewatching my favorite movies. I wish I was better at coding than I am but I had a terrible experience in a computer science class my sophomore year of high school that scared me away from comp sci until Kris Jordan showed me I actually loved it and it was the perfect way to combine my love of STEM with my love of pop culture. Also please don't follow either of my social media accounts that I put on here I don't really keep them up I just figured it was the kind of thing people put on their websites. In an ideal world where I self-actualize they won't be embarrassing.</p>
 
       <h2>articles I've written:</h2>
       <p>[when they get published in like a month lol]</p>
@@ -51,7 +54,7 @@ const App = () => {
       <img src="https://ourculturemag.com/wp-content/uploads/2020/08/333B7425-1-scaled.jpg" height="129" width="129"></img>
 
       <p></p>
-      <a href="https://open.spotify.com/playlist/0Zas60ZMF5IlDkFVoUZdlF?si=FcUvQVQ0TEy0svzGWKJogw">my spotify playlist for this semester</a>
+      <a href="https://open.spotify.com/playlist/0Zas60ZMF5IlDkFVoUZdlF?si=FcUvQVQ0TEy0svzGWKJogw" target="_blank">my spotify playlist for this semester</a>
       
 
       {/* <Footer /> */}
